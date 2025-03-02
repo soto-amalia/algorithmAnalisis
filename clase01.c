@@ -1,7 +1,7 @@
 /*EL rol de los algortitmos de la computacion 
 La resolucion de un problema exige el diseño de un algoritmo que resuelba el mismo 
 Paosos:
-1. DIseño del algoritmo y desarrrollo -Secuencia odenada de bpasos que conducen la solucion de un problema 
+1. DIseño del algoritmo y desarrrollo -Secuencia odenada de pasos que conducen la solucion de un problema 
 2.Expresa el algoritmo como un porgrama en un lenguaje de programacion adecuaso (Codificacion)
 3.Ejecucuion y validacion 
 Algoritmo:  Serie de pasos a seguir para obtener un resultado, o la Resolucion de probllema, esa es su funcion y tiene una entrada un proceso y una salida
